@@ -1,4 +1,4 @@
 # HoverTreeSM
 hovertreesm
 
-[HoverTree](hovertree.com)
+[HoverTree](http://hovertree.com)
